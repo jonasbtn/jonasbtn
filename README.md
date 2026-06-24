@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jonas Bitoun
 
-<!--
-**jonasbtn/jonasbtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer & Founding Engineer
 
-Here are some ideas to get you started:
+Building AI-native products, LLM agents, and scalable ML systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current
+- Founder & AI Engineer @ Reelation (ELIA)
+- AI business agent for customer conversations, bookings, and CRM automation
+
+## Previous
+- Data Science Researcher @ Lightricks
+
+## Areas of Expertise
+- LLM Agents
+- Agentic Workflows
+- RAG & Retrieval Systems
+- Recommendation Systems
+- FastAPI & Cloud Infrastructure
+- React Native
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/jonas-bitoun
